@@ -13,6 +13,7 @@
   - ### **HookForm/Yup**
 - ## **Bootstrap**
 - ## **Git & GitHub**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-MostafaAzari&show_icons=true&theme=transparent)
 ## راه های ارتباطی 📫
 - ### Gmail : `msari808755@gmail.com`
 - ### LinkedIn : <a href="www.linkedin.com/in/mostafa-azari-38b536398">Here</a>
