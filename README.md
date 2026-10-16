@@ -39,14 +39,33 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 - Git & GitHub
 - VS Code
 - npm
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-MostafaAzari&show_icons=true&theme=transparent)
 
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mostafa-azari-38b536398)
-- 🐙 GitHub: [My GitHub Profile](https://github.com/Dev-MostafaAzar)
+- 🐙 GitHub: [My GitHub Profile](https://github.com/Dev-MostafaAzari)
 
 ---
+## 📊 GitHub Analytics
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-MostafaAzari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MostafaAzari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-MostafaAzari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MostafaAzari&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+#
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
