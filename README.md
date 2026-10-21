@@ -64,6 +64,11 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MostafaAzari&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-MostafaAzari&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 #
 
 <p align="center">
